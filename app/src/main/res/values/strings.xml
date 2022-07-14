@@ -1,3 +1,59 @@
 <resources>
     <string name="app_name">Triippie</string>
+    <string name="enter_trip_details">Enter Trip Details</string>
+    <string name="save">Save</string>
+    <string name="the_start_hotel_casino_amp_skypod"><![CDATA[The START Hotel, Casino & SkyPod]]></string>
+    <string name="_4_91">4.91</string>
+    <string name="_510">(510)</string>
+    <string name="backgoroundimage">backgoroundImage</string>
+    <string name="browse_places">BROWSE PLACES</string>
+    <string name="one">One</string>
+    <string name="view">View</string>
+    <string name="a">a</string>
+    <string name="worth">Worth</string>
+    <string name="thousand_words">Thousand Words</string>
+    <string name="todo">TODO</string>
+    <string name="sky_bar_at_waldorf_astoria">Sky Bar at Waldorf Astoria</string>
+    <string name="_4_75">4.75</string>
+    <string name="__510">(510)</string>
+    <string name="places_to_visit_in_kota">Places to Visit in Kota</string>
+    <string name="itinerary">itinerary</string>
+    <string name="place1">KOTA</string>
+    <string name="place2">MUMBAI</string>
+    <string name="place3">KASHMIR</string>
+    <string name="place4">SEVEN SISTERS</string>
+    <string name="place_images">Place images</string>
+    <string name="turist_spot_image">Turist spot Image</string>
+    <string name="rating1">4.5</string>
+    <string name="rating2">4.3</string>
+    <string name="rating3">4.0</string>
+    <string name="rating4">4.9</string>
+    <string name="rating5">4.7</string>
+    <string name="ratingcount1">400</string>
+    <string name="ratingcount2">500</string>
+    <string name="ratingcount3">600</string>
+    <string name="ratingcount4">800</string>
+    <string name="ratingcount5">900</string>
+    <string name="spot1">Aru Valley</string>
+    <string name="spot2">Gurez Valley</string>
+    <string name="spot3">Tulip Garden</string>
+    <string name="spot4">Dal Lake</string>
+    <string name="spot5">Simanth</string>
+    <string name="spot6">Gateway Of India</string>
+    <string name="spot7">Chhatrapati Shivaji Terminus </string>
+    <string name="spot8">Global Vipasana Pagoda</string>
+    <string name="spot9">Bandra Worli Sea</string>
+    <string name="spot10">Seven Sister Falls- Adobe Of Clouds</string>
+    <string name="spot11">Hornbill Festival</string>
+    <string name="spot12">Dzukou Valley</string>
+    <string name="spot14">Mehrangarh Fort, Jodhpur</string>
+    <string name="spot13">Maharajas Mahal</string>
+    <string name="spot15">TajMahal</string>
+    <string name="spot16">Hawa Mahal</string>
+
+
+
+
+
+
 </resources>

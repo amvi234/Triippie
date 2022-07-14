@@ -3,37 +3,48 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    android:layout_height="match_parent">
 
-   <EditText
-       android:id="@+id/input"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       app:layout_constraintTop_toTopOf="parent"
-       app:layout_constraintLeft_toLeftOf="parent"
-       app:layout_constraintRight_toRightOf="parent"
-       android:hint="Enter Trip Details"
-       android:layout_margin="16dp"
-       android:textSize="16sp"
-       />
-    <Button
-        android:id="@+id/addButton"
-        android:layout_width="match_parent"
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:layout_constraintTop_toBottomOf="@id/input"
-        android:layout_margin="16dp"
-        android:text="Save"
-        android:onClick="submitData"
-        android:background="@color/design_default_color_primary_dark"
-        android:textColor="#ffffff"
-        />
-        <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/recyclerView"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            app:layout_constraintTop_toBottomOf="@id/addButton"
-            app:layout_constraintLeft_toLeftOf="parent"
-            app:layout_constraintBottom_toBottomOf="parent"
-            tools:listitem="@layout/item_trip"/>
+        android:layout_marginBottom="60dp"
+        android:contentDescription="@string/backgoroundimage"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/background_image" />
+
+    <Button
+        android:id="@+id/trip"
+        android:layout_width="248dp"
+        android:layout_height="75dp"
+
+        android:layout_marginBottom="48dp"
+        android:fontFamily="@font/open_sans_extra_bold"
+
+        android:text="@string/browse_places"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/itenary"
+        android:layout_width="248dp"
+        android:layout_height="75dp"
+
+        android:layout_marginBottom="16dp"
+
+        android:fontFamily="@font/open_sans_extra_bold"
+        android:text="@string/itinerary"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

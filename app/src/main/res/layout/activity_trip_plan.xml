@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/place"
+        android:layout_width="372dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/open_sans_extra_bold"
+        android:text="@string/places_to_visit_in_kota"
+        android:textColor="#9C27B0"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:layout_width="344dp"
+        android:layout_height="394dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="10dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/place">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/spot_recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clipToPadding="true"
+            android:scrollbars="vertical"
+            app:layoutManager="LinearLayoutManager"
+            tools:listitem="@layout/activity_places_detail" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

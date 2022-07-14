@@ -18,6 +18,36 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".HistoryActivity"
+            android:exported="false">
+
+        </activity>
+        <activity
+            android:name=".TripActivity"
+            android:exported="false">
+
+        </activity>
+        <activity
+            android:name=".SpotActivity"
+            android:exported="false">
+
+        </activity>
+        <activity
+            android:name=".KashmirTripActivity"
+            android:exported="false">
+
+        </activity>
+        <activity
+            android:name=".MumbaiTripActivity"
+            android:exported="false">
+
+        </activity>
+        <activity
+            android:name=".SevenSisterActivity"
+            android:exported="false">
+
+        </activity>
     </application>
 
 </manifest>
