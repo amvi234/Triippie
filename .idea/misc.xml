@@ -12,15 +12,29 @@
         <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/drawable/ic_settings.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/drawable/ic_steps.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/drawable/ic_up_arrow.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/font/.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/font/alex_brush.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/font/anton.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/font/cookie.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/font/merienda_one.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/layout-v31/activity_places_detail.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/layout/activity_browse_places.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/layout/activity_browse_spots.xml" value="0.13451086956521738" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/layout/activity_find_location.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/layout/activity_history.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/layout/activity_main.xml" value="0.29347826086956524" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/layout/activity_places.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/layout/activity_places_detail.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/layout/activity_select_state.xml" value="0.13451086956521738" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/layout/activity_spot_card.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/layout/activity_spot_depth_detail.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/layout/activity_spot_detail.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/layout/activity_spot_view.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/layout/activity_trip.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/layout/activity_trip_plan.xml" value="0.29347826086956524" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/layout/item_trip.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/layout/places.xml" value="0.5" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Triippie/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Users/amvi1/AndroidStudioProjects/Triippie/app/src/main/res/layout/activity_main.xml" value="0.21557971014492755" />
         <entry key="..\:/Users/amvi1/AndroidStudioProjects/Triippie/app/src/main/res/layout/item_trip.xml" value="0.21557971014492755" />
       </map>

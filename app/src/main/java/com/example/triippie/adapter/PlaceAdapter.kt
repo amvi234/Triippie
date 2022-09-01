@@ -21,7 +21,7 @@ class PlaceAdapter(private val context: Context, private val dataset:List<Places
     fun setPlaceClickListener(listener:PlaceClickListener){
         mListener=listener
     }
-        class PlaceViewHolder(private val view: View,listener: PlaceClickListener):RecyclerView.ViewHolder(view){
+        class PlaceViewHolder(view: View, listener: PlaceClickListener):RecyclerView.ViewHolder(view){
             val textView:TextView =view.findViewById(R.id.place_title)
             val imageView:ImageView=view.findViewById(R.id.place_img)
             init{
@@ -37,7 +37,7 @@ class PlaceAdapter(private val context: Context, private val dataset:List<Places
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): PlaceViewHolder {
-        val adapterLayout=LayoutInflater.from(parent.context).inflate(R.layout.activity_find_location,parent,false)
+        val adapterLayout=LayoutInflater.from(parent.context).inflate(R.layout.activity_select_state,parent,false)
         return PlaceViewHolder(adapterLayout,mListener)
 
 

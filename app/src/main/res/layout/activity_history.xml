@@ -38,5 +38,5 @@
             app:layout_constraintTop_toBottomOf="@id/addButton"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"
-            tools:listitem="@layout/item_trip"/>
+            tools:listitem="@layout/history_item"/>
 </androidx.constraintlayout.widget.ConstraintLayout>

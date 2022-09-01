@@ -12,11 +12,23 @@ import com.example.triippie.model.Spot
 
 class SpotAdapter(private val context: Context, private val dataset:List<Spot>):
 RecyclerView.Adapter<SpotAdapter.SpotViewHolder>(){
-    class SpotViewHolder(private val view: View): RecyclerView.ViewHolder(view){
+    private lateinit var mListener:SpotClickListener
+    interface SpotClickListener{
+        fun onSpotClick(pos:Int)
+    }
+    fun setSpotClickListener(listener:SpotClickListener){
+        mListener=listener
+    }
+    class SpotViewHolder(view: View,listener: SpotClickListener): RecyclerView.ViewHolder(view){
         val textView: TextView =view.findViewById(R.id.place_title)
         val imageView: ImageView =view.findViewById(R.id.spotImage)
         val rating:TextView=view.findViewById(R.id.rating)
         val ratingCount:TextView=view.findViewById(R.id.ratingcount)
+        init{
+            itemView.setOnClickListener {
+                listener.onSpotClick(adapterPosition)
+            }
+        }
 
     }
 
@@ -24,13 +36,13 @@ RecyclerView.Adapter<SpotAdapter.SpotViewHolder>(){
         return dataset.size
     }
 
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): SpotAdapter.SpotViewHolder {
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): SpotViewHolder {
         val adapterLayout=
-            LayoutInflater.from(parent.context).inflate(R.layout.activity_places_detail,parent,false)
-        return SpotAdapter.SpotViewHolder(adapterLayout)
+            LayoutInflater.from(parent.context).inflate(R.layout.activity_spot_card,parent,false)
+        return SpotViewHolder(adapterLayout,mListener)
 
     }
-    override fun onBindViewHolder(holder: SpotAdapter.SpotViewHolder, position: Int) {
+    override fun onBindViewHolder(holder: SpotViewHolder, position: Int) {
         val spot=dataset[position]
         holder.textView.text=context.resources.getString(spot.stringResourceId)
         holder.imageView.setImageResource(spot.imageResourceId)
@@ -39,7 +51,5 @@ RecyclerView.Adapter<SpotAdapter.SpotViewHolder>(){
 
 
     }
-    public interface OnSpotListener{
-        fun onSpotClick(position:Int)
-    }
+
 }

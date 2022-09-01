@@ -18,7 +18,7 @@
     <string name="__510">(510)</string>
     <string name="places_to_visit_in_kota">Places to Visit in Kota</string>
     <string name="itinerary">itinerary</string>
-    <string name="place1">KOTA</string>
+    <string name="place1">RAJASTHAN</string>
     <string name="place2">MUMBAI</string>
     <string name="place3">KASHMIR</string>
     <string name="place4">SEVEN SISTERS</string>
@@ -38,7 +38,7 @@
     <string name="spot2">Gurez Valley</string>
     <string name="spot3">Tulip Garden</string>
     <string name="spot4">Dal Lake</string>
-    <string name="spot5">Simanth</string>
+    <string name="spot5">Doodhpathri</string>
     <string name="spot6">Gateway Of India</string>
     <string name="spot7">Chhatrapati Shivaji Terminus </string>
     <string name="spot8">Global Vipasana Pagoda</string>
@@ -50,10 +50,97 @@
     <string name="spot13">Maharajas Mahal</string>
     <string name="spot15">TajMahal</string>
     <string name="spot16">Hawa Mahal</string>
+    <string name="backgoround">backgoround</string>
+    <string name="place"><![CDATA[THE START Hotel, Casino & SkyPod]]></string>
+    <string name="top_of_the_world_is_known_as_one_of_the_most_romantic_restaurants_in_the_city_it_offers_an_intimate_dining_setting_paired_with_an_extravagant_view_of_the_entire_city_all_encompassed_in_360_degree">Top of the World is known as one of the most romantic restaurants in the city. It offers an intimate dining setting paired with an extravagant view of the entire city, all encompassed in 360-degree …</string>
+    <string name="back_arrow">back arrow</string>
+    <string name="_4_5">4.75</string>
+    <string name="more_details">More Details</string>
+    <string name="_51">(510)</string>
+    <string name="next_arrow">next arrow</string>
+    <string name="about1">Aru Valley is a famous tourist place in Jammu &amp; Kashmir located in the Anantnag district around 12 kilometers from Pahalgam. Tourists are attracted towards it because of its lush meadows, pristine lakes &amp; mountains, and it also serves as a base camp for trekking to the Kolahoi Glacier and Tarsar Lake.</string>
+    <string name="view1">It is an attractive tourist place to visit during your holidays in Kashmir not just for the gorgeous views, but for the various activities which you can enjoy here. During winters, when it’s covered with snow, it becomes a famous destination for skiing &amp; heli skiing.</string>
+    <string name="price1">You will have to pay Rs. 25 per head to enter the valley.</string>
+    <string name="timing1">July to September is the best time to visit Aru Valley, since it’s great for sightseeing at this time. To enjoy skiing however, plan a trip to Aru Valley during the winter.</string>
+    <string name="about2">Gurez Valley is a hidden gem in Kashmir waiting to be explored.Surrounded by majestic mountains and housing a diverse variety of fauna and wildlife, it is the perfect place to spend some peaceful time It was once the gateway to the famous Silk Road from Europe to Kashgar in China.</string>
+    <string name="view2">If there is heaven on Earth, here it is!No other quote can do justice to what this place holds.The place is far away from the maddening crowd. Almost 7 hours from Srinagar, but boy, what a place it is !!!</string>
+    <string name="price2">24,500/-6D | 5N</string>
+    <string name="timing2">urez receives heavy snowfall in winter. Even the passes leading up to it receive a lot of snowfall, so its shut for six months in a year. The valley remains open to tourists from May to October. The best time to visit Gurez is from late June to mid August.</string>
+    <string name="about3">Indira Gandhi Memorial Tulip garden, previously Model Floriculture Center, is a tulip garden in Srinagar. It is the largest tulip garden in Asia spread over an area of about 30 hectares.Tulip festival is an annual celebration that aims to showcase the range of flowers in the garden as a part of tourism efforts by the Government of Jammu and Kashmir. It is organized during the onset of spring season in Kashmir valley."</string>
+    <string name="view3">It is situated on the foothills of Zabarwan Range with an overview of Dal Lake. The garden was opened in 2007 with the aim to boost floriculture and tourism in Kashmir Valley. The garden is built on a sloping ground in a terraced fashion consisting of seven terraces. Apart from tulips, many other species of flowers – hyacinths, daffodils and ranunculus have been added as well.It is situated on the foothills of Zabarwan Range with an overview of Dal Lake. The garden was opened in 2007 with the aim to boost floriculture and tourism in Kashmir Valley. The garden is built on a sloping ground in a terraced fashion consisting of seven terraces. Apart from tulips, many other species of flowers – hyacinths, daffodils and ranunculus have been added as well"</string>
+    <string name="price3"> INR 50 for adults and INR 25 for children."</string>
+    <string name="timing3">The best time to visit the Tulip Garden in Srinagar is the month of April, when the tulips are in full bloom and the annual Tulip Festival is held. Though, this popular attraction in Srinagar is open throughout the year for the visitors.Tulip Garden opens from 9:00 am to 7:00 pm every day."</string>
 
+    <string name="about4">"Reckoned to be the pride of Kashmir tourism, Dal Lake is the most popular attraction in Srinagar. Enclosed by splendid Pir Panjal mountains and Mughal Gardens, this must-see place is ideal for family vacationers, honeymoon couples, and even for solo travellers seeking peace."</string>
+    <string name="view4">The canopied Shikaras sailing on the lake are one of the major attractions of Dal Lake. The houseboats on the lake are also the top attraction as the best accommodation option in Srinagar to the tourists.Along with being a popular tourist attraction for nature lovers, Dal Lake even invites the fishing enthusiast with its plethora of fishes along with Carp. In addition to this, the floating vegetable and flower market is a major place to see.</string>
+    <string name="price4">INR 770 for 1 hour</string>
+    <string name="timing4">March to November is the best time to visit Dal Lake since the weather remains pleasant in this duration.</string>
 
+    <string name="about5">Amidst the Pir Panjal Range of the Himalayas, Yusmarg or the ‘Meadows of Jesus’ is believed to be the place where Jesus once lived. Sitting by the scintillating River Doodhganga overlooking the mighty Sunset and Tatakooti Peaks, Yusmarg offers itself as a perfect tourist destination for all those looking for relaxing and rejuvenating vacation amidst nature.The best way to reach Yusmarg is by road as it is situated only 50 km away from Srinagar</string>
+    <string name="view5">Yusmarg has a handful of attractions for sightseeing such as the 600 years old Muslim pilgrimage destination of Charar-e-Shareef, the alpine Nilnag Lake, the picturesque valley and meadow of Sang-e-Safed. There are two more scenic meadows, namely, Lidder Mad and Haigan, en route Sang-e-Safed that make for important attractions in Yusmarg.While trekking is one option to reach Nilnag, Sang-e-Safed and the two other meadows, a pony ride is another option to these major tourist places in Yusmarg. For the adventure enthusiasts, there are also Doodhpathri and Tosa Maidan treks, which are quite rewarding.</string>
+    <string name="price5">For an SUV like Scorpio or Innova, expect the per-day fare to be around Rs. 2,500 including fuel. If you chose a hatchback like Etios, this charge would then be around Rs. 1800 to Rs. 2000.</string>
+    <string name="timing5">Yusmarg is a famous hill station in Jammu &amp; Kashmir. Although it can be visited round the year, the best season to visit Yusmarg is winter season from October to Feb.The entire place turns into fairytale land.Especially in December and January, the stretch above Charar-e-Shareef gets blocked due to snow making it difficult to reach Yusmarg. Those who are interested in visiting Yusmarg in winter have to hire 4X4 vehicle.</string>
 
+    <string name="about6">The Gateway of India is located on the waterfront at Apollo Bunder area at the end of Chhatrapati Shivaji Marg in South Mumbai and overlooks the Arabian Sea. The monument has also been referred to as the Taj Mahal of Mumbai, and is the city’s top tourist attraction.</string>
+    <string name="view6">The first structure to welcome visitors entering the city by sea, it is popularly called ‘Taj Mahal of Mumbai’. It stands at the end of Chhatrapati Shivaji Marg at the water’s edge. Visited by tourists and locals alike, the gateway and its promenade affords a great view of the boat-studded sea and is the connecting point for boat rides to and from the famous Elephanta Caves. The ‘Elephanta Festival of music and dance’ which was earlier held at the Elephanta caves, is now held in front of the Gateway in March every year</string>
+    <string name="timing6">Open to public 24 hours a day, all days of the week</string>
+    <string name="price6">No entry fee</string>
 
+    <string name="about7">The Chhatrapati Shivaji Terminus is an outstanding example of Victorian Gothic Revival architecture in India, blended with themes deriving from Indian traditional architecture. The building, designed by the British architect F. W. Stevens, became the symbol of Bombay as the ‘Gothic City’ and the major international mercantile port of India</string>
+    <string name="view7">Its remarkable stone dome, turrets, pointed arches and eccentric ground plan are close to traditional Indian palace architecture. It is an outstanding example of the meeting of two cultures, as British architects worked with Indian craftsmen to include Indian architectural tradition and idioms thus forging a new style unique to Bombay.</string>
+    <string name="price7">INR 50 </string>
+    <string name="timing7">Open 24 hours in a day</string>
+
+    <string name="about8">t is a meditation dome in the outskirts of Mumbai, which is built as a tribute to Sayagyi U Ba Khin, a Vipassana teacher from Myanmar.Situated among the green and peaceful environment of Gorai Island, Global Vipassana Meditation Pagoda Mumbai is one of the Seven Wonders of Maharashtra. It is also one of the must-visit tourist spots in Mumbai.</string>
+    <string name="view8">he dome resembles the Shwedagon Pagoda of Myanmar. It is the world’s largest stone dome standing without any supporting pillars and here, 8000 people can meditate at a time. Global Vipassana Pagoda follows the values of Gautam Buddha and spreads his teachings.The monks here practice meditation and relaxation as taught by Vipassana guruji Shree S N Goenka. And they have devoted their entire life to this purpose.</string>
+    <string name="price8">no entry fee or charge to see the Global Vipassana Pagoda. There is no charge for the tour guides at Global Vipassana Pagoda</string>
+    <string name="timing8">9am–7pm</string>
+
+    <string name="about9">The Bandra Worli Sea Link is an eight-lane cable-stayed bridge located in Mumbai, and it is one of the few bridges in Mumbai that are cable-stayed using pre-stressed concrete-steel ramps purposely to hold the bridge steady.</string>
+    <string name="view9">The Famous Bandra-Worli sea link is also known by the name Rajiv Gandhi Sea Link. This bridge has helped in saving a lot of time for the passengers who travel from Bandra to Worli and vice versa.</string>
+    <string name="price9">No entry fees</string>
+    <string name="timing9">24 hours</string>
+
+    <string name="about10">The Nohsngithiang Falls (or Mawsmai Falls) is popularly known as the Seven Sisters Waterfalls because it has seven segments. This majestic waterfall is the fourth highest waterfall in India, plunging down a height of 315 metres (1,033 ft) over the top of limestone cliffs of the East Khasi Hills in Cherrapunji. The Seven Sisters Falls is one of major tourist spot in Meghalaya</string>
+    <string name="view10">The vibrant colors of the setting sun make for a great sight. Seven Sisters Falls have become synonymous with Meghalaya which is renowned as one of the wettest place on earth. The falls are a great tourist attraction during the monsoon season and must definitely feature on your northeast India itinerary.</string>
+    <string name="price10">No entry fees</string>
+    <string name="timing10">The perfect time to visit the mesmerising place is during the monsoon months from May to July .Opens for 8:00 AM - 5:00 PM </string>
+    <string name="view11">Hornbill music festival is the longest and most popular music festival in the country. The best acts in the country and abroad perform here.</string>
+    <string name="about11">The Hornbill Festival is a celebration held every year from 1 to 10 December, in Nagaland, Northeast India. It is also called the \'Festival of Festivals\'. </string>
+    <string name="price11">No entry fees</string>
+    <string name="timing11">1 to 10 December</string>
+    <string name="about12">This valley is well known for its natural environment, seasonal flowers and flora &amp; fauna. It is situated at an altitude of 2452 m above sea level. The valley is famous for its wide range of flowers in every season but the most famous one is the Dzüko Lily and it is found only in this valley</string>
+    <string name="view12">Dzukou Valley sits high amongst the clouds, straddling the border of Nagaland and Manipur in northeast India.In summer, vivid green hillocks pave the way for blue mountaintops, and bright flowers wave in the winds amongst the tall grasses. In winter, temperatures drop far lower than one would expect in such tropical states, and Dzukou Valley freezes, sometimes covered in white snow.</string>
+    <string name="price12">No entry fees</string>
+    <string name="timing12">The best time to visit Dzukou Valley is from May to mid June, and September to October end. During this time, the light rains make the mountains turn greener, and the landscape is surreal.</string>
+    <string name="about13">Epitomizing royalty and glory, this gem in Jodhpur is one of the largest and most beautiful forts in India. Built by Rao Jodha (the founder of Jodhpur) in 1459 overlooking the blue city, the fort is known for its beautiful architecture.</string>
+    <string name="view13">Mehrangarh Fort covers an area of 1,200 acres (486 hectares) in Jodhpur, Rajasthan, India. The complex is located on a hilltop around 122 metres above the surrounding plain</string>
+    <string name="price13">	₹ 100 for Indians; ₹ 50 for senior citizens, students, paramilitary personnel ₹ 600 for foreigners (the charges include audio equipment) ₹ 400 for foreign students</string>
+    <string name="timing13">9:00 am – 5:00 pm</string>
+    <string name="about14"> There is fantastic inner courtyard where you can see four different gates that represent four different seasons: the Peacock Gate associated with autumn, the Green Gate – with summer, the Leheriya gate with spring and finally the Rose Gate with winter. Each gate is decorated with different kinds of flowers.</string>
+    <string name="view14">Chandra Mahal is the place where the present Raja of the Jaipur resides therefore you can only visit the ground floor. All other floors are out of bounds.You will get a wonderful experience about life style of Royal Family of Jaipur. The part where Royal family lives is not open to public. But other portion gives you a splendid experience of the rich life style. It is an experience of life time.</string>
+    <string name="price14">INR 3000</string>
+    <string name="timing14">8am-6pm</string>
+    <string name="about16">Hawa Mahal or the \'Palace Of The Winds\' located in the heart of the beautiful Pink City of Jaipur in Rajasthan, India, is one of the most famous tourist attractions and a prominent landmark of the city that is renowned for its rich cultural and architectural history.</string>
+    <string name="view15">The Taj Mahal is an Islamic ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra</string>
+    <string name="price15">INR 1100</string>
+    <string name="timing15">Friday closed</string>
+    <string name="about15">An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world\'s heritage.</string>
+    <string name="view16">Built in 1799 by Maharaja Sawai Pratap Singh of the Kachhwaha Rajput dynasty, this beautiful structure is predominantly a high screen wall made of pink and red sandstone that facilitated royal women to get an eyeful of the street festivals and busy city life while remaining out of the view of public. This five-storey building in the shape of a crown of Lord Krishna with 953 jharokhas or windows and a beautifully decorated façade resembling a honeycomb of a beehive that gives one a feel of the rich heritage of the Rajputs.</string>
+    <string name="price16">The Hawa Mahal entry fees for an Indian national is Rs 50 per person and for a foreign national is Rs 200 per person.</string>
+    <string name="timing16"> 9:00 AM to 4:30 PM every day</string>
+    <string name="_10_12">$10-$12</string>
+    <string name="the_strat_hotel_casino_amp_skypod"><![CDATA[The STRAT Hotel, Casino & SkyPod]]></string>
+    <string name="price">Price</string>
+    <string name="_4">4.75</string>
+    <string name="_5">(510)</string>
+    <string name="about">About</string>
+    <string name="top_of_the_world_is_known_as_one_of_the_most_romantic_restaurants_in_the_city_it_offers_an_intimate_dining_setting_paired_with_an_extravagant_view_of_the_entire_city_all_encompassed_in_a_360_degree_revolving_frame_yes_that_s_right_this_restaurant_allows_diners_the_opportunity_to_see_las_vegas_in_its_entirety_if_they_re_able_to_stay_for_at_least_80_minutes_the_time_needed_for_one_full_rotation">Top of the World is known as one of the most romantic restaurants in the city. It offers an intimate dining setting paired with an extravagant view of the entire city, all encompassed in a 360-degree revolving frame. Yes, that’s right, this restaurant allows diners the opportunity to see Las Vegas in its entirety if they’re able to stay for at least 80 minutes, the time needed for one full rotation.</string>
+    <string name="it_might_surprise_you_but_this_is_the_only_revolving_restaurant_in_las_vegas_located_844_feet_in_the_air_you_re_bound_to_get_a_great_view_of_the_city_with_its_massive_floor_to_ceiling_windows">It might surprise you, but this is the only revolving restaurant in Las Vegas. Located 844 feet in the air, you’re bound to get a great view of the city with its massive floor-to-ceiling windows.</string>
+    <string name="timings">Timings</string>
+    <string name="hello">hello</string>
+    <string name="bg_image">bg-image</string>
+    <string name="back">back</string>
 
 
 </resources>

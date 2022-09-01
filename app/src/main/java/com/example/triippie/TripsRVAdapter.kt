@@ -2,13 +2,10 @@ package com.example.triippie
 
 import android.content.Context
 import android.view.LayoutInflater
-import android.view.OnReceiveContentListener
 import android.view.View
 import android.view.ViewGroup
-import android.widget.ImageButton
 import android.widget.ImageView
 import android.widget.TextView
-import androidx.appcompat.view.menu.ActionMenuItemView
 import androidx.recyclerview.widget.RecyclerView
 
 class TripsRVAdapter(private val context: Context, private val listener: ITripsRVAdapter): RecyclerView.Adapter<TripsRVAdapter.TripViewHolder>() {
@@ -21,7 +18,7 @@ class TripsRVAdapter(private val context: Context, private val listener: ITripsR
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): TripViewHolder {
-        val viewHolder=TripViewHolder(LayoutInflater.from(context).inflate(R.layout.item_trip,parent,false))
+        val viewHolder=TripViewHolder(LayoutInflater.from(context).inflate(R.layout.history_item,parent,false))
         viewHolder.deleteButton.setOnClickListener{
             listener.onItemClicked(allTrips[viewHolder.adapterPosition])
         }
