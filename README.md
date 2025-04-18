@@ -1,8 +1,8 @@
 # Triippie
 This project is basically used for planning trips by storing the data. User can delete the data too. The data will be stored in the app even if the application is killed in the device.
 
-#Project Explanation and Demo
-[https://www.youtube.com/watch?v=jXE9OcnFE4U](https://www.youtube.com/watch?v=jXE9OcnFE4U)
+## Project Explanation and Demo
+[![Triippie App Demo](https://img.youtube.com/vi/jXE9OcnFE4U/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXE9OcnFE4U)
 
 #Screenshots
 
